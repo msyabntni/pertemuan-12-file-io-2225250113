@@ -100,6 +100,4 @@ Error yang saya temukan adalah baris `A004,abc` pada `data/nilai.txt`: nilai `ab
 - Alasan saya menggunakan `with` adalah karena file otomatis ditutup setelah blok selesai, bahkan jika terjadi error, sehingga lebih aman dan rapi.
 - Konsep Pertemuan 12 yang akan membantu debugging pada Pertemuan 13 adalah penanganan error per baris dan test case jalur normal/error (file hilang, baris kosong, nilai invalid), karena penyebab masalah jadi mudah dilacak.
 
-## Catatan Bantuan AI
 
-Saya menggunakan bantuan AI dalam menyusun kerangka kode, README, dan dokumen pendukung. Kode, format data, strategi error handling, test case, dan refleksi sudah saya periksa dan dapat saya jelaskan sendiri. Referensi: bahan ajar Pertemuan 12 dan dokumentasi resmi Python.
